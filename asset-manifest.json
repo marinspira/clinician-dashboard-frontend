@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clinician-dashboard-frontend/static/css/main.286a0a01.css",
+    "main.js": "/clinician-dashboard-frontend/static/js/main.90eb7c73.js",
+    "static/js/453.901f0bc4.chunk.js": "/clinician-dashboard-frontend/static/js/453.901f0bc4.chunk.js",
+    "index.html": "/clinician-dashboard-frontend/index.html",
+    "main.286a0a01.css.map": "/clinician-dashboard-frontend/static/css/main.286a0a01.css.map",
+    "main.90eb7c73.js.map": "/clinician-dashboard-frontend/static/js/main.90eb7c73.js.map",
+    "453.901f0bc4.chunk.js.map": "/clinician-dashboard-frontend/static/js/453.901f0bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286a0a01.css",
+    "static/js/main.90eb7c73.js"
+  ]
+}
