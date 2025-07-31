@@ -1,6 +1,6 @@
 {
   "name": "mental-health-insights-dashboard",
-  "homepage": "https://marinspira.github.io/mental-health-insights-dashboard",
+  "homepage": "https://marinspira.github.io/clinician-dashboard-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
